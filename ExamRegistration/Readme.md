@@ -1,0 +1,4 @@
+1. Purpose of try and catch blocks: The try block contains code that may cause an exception, while the catch block handles the exception to prevent the program from crashing.
+2. Difference between throw and throws: throw is used to explicitly throw an exception, while throws declares exceptions that a method may pass to its caller.
+3. Purpose of the finally block: The finally block executes whether an exception occurs or not, and is commonly used to release resources.
+4. Why a custom exception is useful: A custom exception allows us to create specific error messages for application-related problems, making errors easier to understand and handle.
